@@ -12,7 +12,7 @@ npm install figlet path fs readline cloudscraper
 npm install overflood && mv node_modules/overflood ./ && cd overflood
 ```
 
-#### 
+#### Proxy or nonProxy
 
 can use with proxy 
 ```javascript
