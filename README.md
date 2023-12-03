@@ -30,6 +30,6 @@ node nonproxy.js
 
 ### License
 
-This project is licensed under the [AGPL-3.0 License](https://github.com/naix0x/httprequest/blob/main/LICENSE).
+This project is licensed under the [AGPL-3.0 License](https://github.com/naix0x/overflood/blob/main/LICENSE).
 
 
