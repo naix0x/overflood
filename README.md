@@ -1,6 +1,6 @@
 # Overflood Request
 
-Is not an auto visitor website, but `provides over requests at one time.` use `vps` or something else, `dont use termux or anything that like uses cellular data/wifi` itself cuz can `kill network.` 
+Is not an auto visitor website, but provides over requests at one time. use `VPS` or something else, dont use termux or anything that like uses cellular data/wifi itself cuz can `kill network.` 
 
 This is only for educational purposes, im not responsible for anything outside of that.
 
