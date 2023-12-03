@@ -14,12 +14,12 @@ npm install overflood && mv node_modules/overflood ./ && cd overflood
 
 #### Proxy or nonProxy
 
-can use with proxy 
+- can use with proxy 
 ```javascript
 node withproxy.js
 ```
 
-or non proxy
+- or non proxy
 ```javascript
 node nonproxy.js
 ```
