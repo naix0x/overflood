@@ -4,7 +4,7 @@
     <img width="400" src="screen/layer/7/shot/100request.png" alt="Layer7">
 </p>
 
-Is not an auto visitor website, but provides over requests at one time. use `VPS` or something else, dont use termux or anything that like uses cellular data/wifi itself cuz can `kill network.` 
+Is not an auto visitor website, but provides over requests at one time. use `VPS` or something else, dont use termux or anything like that, cellular data/wifi itself cuz can `kill your network.` 
 
 This is only for educational purposes, im not responsible for anything outside of that.
 
